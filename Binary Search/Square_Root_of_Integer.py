@@ -1,13 +1,13 @@
-Implement int sqrt(int x).
+# Implement int sqrt(int x).
 
-Compute and return the square root of x.
+# Compute and return the square root of x.
 
-If x is not a perfect square, return floor(sqrt(x))
+# If x is not a perfect square, return floor(sqrt(x))
 
-Example :
+# Example :
 
-Input : 11
-Output : 3
+# Input : 11
+# Output : 3
 
 ##########################################################################################################################################
 
