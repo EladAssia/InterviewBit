@@ -1,16 +1,16 @@
-Given n non-negative integers representing the histogram’s bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.
+# Given n non-negative integers representing the histogram’s bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.
 
-Largest Rectangle in Histogram: Example 1
+# Largest Rectangle in Histogram: Example 1
 
-A histogram where width of each bar is 1, given height = [2,1,5,6,2,3].
+# A histogram where width of each bar is 1, given height = [2,1,5,6,2,3].
 
-Largest Rectangle in Histogram: Example 2
+# Largest Rectangle in Histogram: Example 2
 
-The largest rectangle is shown in the shaded area, which has area = 10 unit.
+# The largest rectangle is shown in the shaded area, which has area = 10 unit.
 
-For example,
-Given height = [2,1,5,6,2,3],
-return 10.
+# For example,
+# Given height = [2,1,5,6,2,3],
+# return 10.
 
 ##########################################################################################################################################
 
