@@ -1,10 +1,10 @@
-Sort a linked list in O(n log n) time using constant space complexity.
+# Sort a linked list in O(n log n) time using constant space complexity.
 
-Example :
+# Example :
 
-Input : 1 -> 5 -> 4 -> 3
+# Input : 1 -> 5 -> 4 -> 3
 
-Returned list : 1 -> 3 -> 4 -> 5
+# Returned list : 1 -> 3 -> 4 -> 5
 
 ##########################################################################################################################################
 
