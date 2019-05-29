@@ -1,13 +1,14 @@
-Determine if a Sudoku is valid, according to: http://sudoku.com.au/TheRules.aspx
+# Determine if a Sudoku is valid, according to: http://sudoku.com.au/TheRules.aspx
 
-The Sudoku board could be partially filled, where empty cells are filled with the character ‘.’.
+# The Sudoku board could be partially filled, where empty cells are filled with the character ‘.’.
 
-A partially filled sudoku which is valid.
+# A partially filled sudoku which is valid.
 
-Note:
-A valid Sudoku board (partially filled) is not necessarily solvable. Only the filled cells need to be validated.
+# Note:
+# A valid Sudoku board (partially filled) is not necessarily solvable. Only the filled cells need to be validated.
 
-Return 0 / 1 ( 0 for false, 1 for true ) for this problem
+# Return 0 / 1 ( 0 for false, 1 for true ) for this problem
+
 ##########################################################################################################################################
 
 def get_square(r, c):
