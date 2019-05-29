@@ -1,17 +1,19 @@
-Given an array A of integers and another non negative integer k, find if there exists 2 indices i and j such that A[i] - A[j] = k, i != j.
+# Given an array A of integers and another non negative integer k, find if there exists 2 indices i and j such that 
+# A[i] - A[j] = k, i != j.
 
-Example :
+# Example :
 
-Input :
+# Input :
 
-A : [1 5 3]
-k : 2
-Output :
+# A : [1 5 3]
+# k : 2
+    
+# Output :
+# 1
 
-1
-as 3 - 1 = 2
+# as 3 - 1 = 2
 
-Return 0 / 1 for this problem.
+# Return 0 / 1 for this problem.
 
 ##########################################################################################################################################
 
