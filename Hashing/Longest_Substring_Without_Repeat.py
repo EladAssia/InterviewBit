@@ -1,11 +1,11 @@
-Given a string, 
-find the length of the longest substring without repeating characters.
+# Given a string, 
+# find the length of the longest substring without repeating characters.
 
-Example:
+# Example:
 
-The longest substring without repeating letters for "abcabcbb" is "abc", which the length is 3.
+# The longest substring without repeating letters for "abcabcbb" is "abc", which the length is 3.
 
-For "bbbbb" the longest substring is "b", with the length of 1.
+# For "bbbbb" the longest substring is "b", with the length of 1.
 
 ##########################################################################################################################################
 
