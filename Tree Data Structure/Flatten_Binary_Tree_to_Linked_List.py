@@ -1,29 +1,29 @@
-Given a binary tree, flatten it to a linked list in-place.
+# Given a binary tree, flatten it to a linked list in-place.
 
-Example :
-Given
+# Example :
+# Given
 
 
-         1
-        / \
-       2   5
-      / \   \
-     3   4   6
+#          1
+#         / \
+#        2   5
+#       / \   \
+#      3   4   6
      
-The flattened tree should look like:
+# The flattened tree should look like:
 
-   1
-    \
-     2
-      \
-       3
-        \
-         4
-          \
-           5
-            \
-             6
-Note that the left child of all nodes should be NULL.
+#    1
+#     \
+#      2
+#       \
+#        3
+#         \
+#          4
+#           \
+#            5
+#             \
+#              6
+# Note that the left child of all nodes should be NULL.
 
 ##########################################################################################################################################
 
