@@ -1,26 +1,26 @@
-Given a binary tree, return a 2-D array with vertical order traversal of it.
-Go through the example and image for more details.
+# Given a binary tree, return a 2-D array with vertical order traversal of it.
+# Go through the example and image for more details.
 
-Example :
-Given binary tree:
+# Example :
+# Given binary tree:
 
-      6
-    /   \
-   3     7
-  / \     \
- 2   5     9
-returns
+#       6
+#     /   \
+#    3     7
+#   / \     \
+#  2   5     9
+# returns
 
-[
-    [2],
-    [3],
-    [6 5],
-    [7],
-    [9]
-]
+# [
+#     [2],
+#     [3],
+#     [6 5],
+#     [7],
+#     [9]
+# ]
 
 
-Note : If 2 Tree Nodes shares the same vertical level then the one with lesser depth will come first.
+# Note : If 2 Tree Nodes shares the same vertical level then the one with lesser depth will come first.
 
 ##########################################################################################################################################
 
