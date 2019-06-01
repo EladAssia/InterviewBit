@@ -1,28 +1,28 @@
-Given N * M field of O's and X's, where O=white, X=black
-Return the number of black shapes. A black shape consists of one or more adjacent X's (diagonals not included)
+# Given N * M field of O's and X's, where O=white, X=black
+# Return the number of black shapes. A black shape consists of one or more adjacent X's (diagonals not included)
 
-Example:
+# Example:
 
-OOOXOOO
-OOXXOXO
-OXOOOXO
+# OOOXOOO
+# OOXXOXO
+# OXOOOXO
 
-answer is 3 shapes are  :
-(i)    X
-     X X
-(ii)
-      X
- (iii)
-      X
-      X
-Note that we are looking for connected shapes here.
+# answer is 3 shapes are  :
+# (i)    X
+#      X X
+# (ii)
+#       X
+#  (iii)
+#       X
+#       X
+# Note that we are looking for connected shapes here.
 
-For example,
+# For example,
 
-XXX
-XXX
-XXX
-is just one single connected black shape.
+# XXX
+# XXX
+# XXX
+# is just one single connected black shape.
 
 ########################################################################################################################################
 
