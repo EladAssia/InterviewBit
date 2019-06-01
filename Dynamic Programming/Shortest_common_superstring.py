@@ -1,13 +1,13 @@
-Given a set of strings. Find the length of smallest string which
-has all the strings in the set as substring
+# Given a set of strings. Find the length of smallest string which
+# has all the strings in the set as substring
 
-Constraints:
-1) 1 <= Number of strings <= 18
-2) Length of any string in the set will not exceed 100.
+# Constraints:
+# 1) 1 <= Number of strings <= 18
+# 2) Length of any string in the set will not exceed 100.
 
-Example:
-Input: [“abcd”, “cdef”, “fgh”, “de”]
-Output: 8 (Shortest string: “abcdefgh”)
+# Example:
+# Input: [“abcd”, “cdef”, “fgh”, “de”]
+# Output: 8 (Shortest string: “abcdefgh”)
 
 ########################################################################################################################################
 
