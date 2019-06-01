@@ -1,25 +1,25 @@
-Given two words (start and end), and a dictionary, find the shortest transformation sequence from start to end, such that:
+# Given two words (start and end), and a dictionary, find the shortest transformation sequence from start to end, such that:
 
-Only one letter can be changed at a time
-Each intermediate word must exist in the dictionary
-If there are multiple such sequence of shortest length, return all of them. Refer to the example for more details.
+# Only one letter can be changed at a time
+# Each intermediate word must exist in the dictionary
+# If there are multiple such sequence of shortest length, return all of them. Refer to the example for more details.
 
-Example :
-Given:
+# Example :
+# Given:
 
-start = "hit"
-end = "cog"
-dict = ["hot","dot","dog","lot","log"]
-Return
+# start = "hit"
+# end = "cog"
+# dict = ["hot","dot","dog","lot","log"]
+# Return
 
-  [
-    ["hit","hot","dot","dog","cog"],
-    ["hit","hot","lot","log","cog"]
-  ]
+#   [
+#     ["hit","hot","dot","dog","cog"],
+#     ["hit","hot","lot","log","cog"]
+#   ]
 
-Note:
-All words have the same length.
-All words contain only lowercase alphabetic characters.
+# Note:
+# All words have the same length.
+# All words contain only lowercase alphabetic characters.
 
 ########################################################################################################################################
 
